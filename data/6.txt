@@ -1,0 +1,26 @@
+  Question - 6:
+Harish wants to search for repeated strings in the given list of strings. Help to complete his work fast by writing a code. A string is said to be repeated, if it contains a sub-string which is multiplied to form given string.
+
+Input format:
+First line: n, number of strings
+Next n lines contain strings
+
+Output format:
+n lines 0 and 1, 0 if string is not repeating and 1 for repeating strings.
+
+Constrains:
+1 <= n <= 100
+Time: 1 sec
+
+  Input:
+  2
+  abbabbabb ababa
+
+  output:
+  1
+  0
+
+Explanation:
+In above test case
+First string "abbabbabb" is accepted, because it has a repeating substring "abb" and if we multiply this sub string for 3 times we get the original string.
+Second string "ababa" is not accepted, because it has no substring that forms the original string.

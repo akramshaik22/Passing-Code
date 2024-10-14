@@ -1,0 +1,23 @@
+  Question - 3:
+Akram was developing chess game. While developing the chess game he wants to know the no of move his rook(elephant) can moves from the current position. Write a code to count the total no of moves rook can move.
+
+Input format:
+First line: integer N size of chess board(NxN)
+Second line: two space separated integers specifying the position
+
+Note :- A rook can Move only in forward, backward, right, left directions from its current Position.
+
+Output format:
+Number of moves
+
+Constrains:
+1 <= N <= 10^5
+Time: 1 sec
+
+  Input:
+  5
+  2 2
+
+  Output:
+  8
+

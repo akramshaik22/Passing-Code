@@ -1,0 +1,24 @@
+  Question - 1:
+Surya wants to print string in a design. Write a code to print the given string in required pattern.
+
+Input format:
+First line: n, length of string
+Second line: string with n characters
+Output format:
+Required pattern
+
+Constrains:
+1 <= n <= 50
+Time: 1 sec
+
+  Input:
+  5
+  print
+
+  output:
+  p
+  p r
+  p r i
+  p r i n
+  p r i n t
+

@@ -1,0 +1,176 @@
+1out0
+p
+p r
+p r i
+p r i n
+p r i n t
+1out1
+q
+q w
+q w e
+q w e r
+q w e r t
+q w e r t y
+q w e r t y u
+q w e r t y u i
+q w e r t y u i o
+q w e r t y u i o p
+q w e r t y u i o p a
+q w e r t y u i o p a s
+q w e r t y u i o p a s d
+q w e r t y u i o p a s d f
+q w e r t y u i o p a s d f g
+q w e r t y u i o p a s d f g h
+q w e r t y u i o p a s d f g h j
+q w e r t y u i o p a s d f g h j k
+q w e r t y u i o p a s d f g h j k l
+q w e r t y u i o p a s d f g h j k l z
+q w e r t y u i o p a s d f g h j k l z x
+q w e r t y u i o p a s d f g h j k l z x c
+q w e r t y u i o p a s d f g h j k l z x c v
+q w e r t y u i o p a s d f g h j k l z x c v b
+q w e r t y u i o p a s d f g h j k l z x c v b n
+q w e r t y u i o p a s d f g h j k l z x c v b n q
+q w e r t y u i o p a s d f g h j k l z x c v b n q a
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u j
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u j m
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u j m i
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u j m i k
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u j m i k o
+q w e r t y u i o p a s d f g h j k l z x c v b n q a z w s x e d c r f v t g b y h n u j m i k o l
+1out2
+a
+a b
+a b c
+a b c d
+a b c d e
+a b c d e f
+a b c d e f g
+a b c d e f g h
+a b c d e f g h i
+a b c d e f g h i j
+a b c d e f g h i j k
+a b c d e f g h i j k l
+a b c d e f g h i j k l m
+a b c d e f g h i j k l m n
+a b c d e f g h i j k l m n o
+a b c d e f g h i j k l m n o p
+a b c d e f g h i j k l m n o p q
+a b c d e f g h i j k l m n o p q r
+a b c d e f g h i j k l m n o p q r s
+a b c d e f g h i j k l m n o p q r s t
+a b c d e f g h i j k l m n o p q r s t u
+a b c d e f g h i j k l m n o p q r s t u v
+a b c d e f g h i j k l m n o p q r s t u v w
+a b c d e f g h i j k l m n o p q r s t u v w x
+a b c d e f g h i j k l m n o p q r s t u v w x y
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+1out3
+a
+a k
+a k r
+a k r a
+a k r a m
+a k r a m  
+a k r a m   t
+a k r a m   t h
+a k r a m   t h o
+a k r a m   t h o p
+1out4
+q
+q w
+q w e
+q w e r
+q w e r t
+q w e r t y
+q w e r t y u
+q w e r t y u i
+q w e r t y u i o
+q w e r t y u i o p
+q w e r t y u i o p z
+q w e r t y u i o p z x
+q w e r t y u i o p z x c
+q w e r t y u i o p z x c v
+q w e r t y u i o p z x c v b
+2out0
+NO
+2out1
+NO
+2out2
+YES
+2out3
+NO
+2out4
+YES
+3out0
+8
+3out1
+26
+3out2
+178
+3out3
+32468
+3out4
+199998
+4out0
+YES
+4out1
+YES
+4out2
+YES
+4out3
+NO
+4out4
+NO
+5out0
+bbb d b
+5out1
+df ds byy  bg   nj     yg        njrt             y
+5out2
+vfv h v  y   jg     jg        jg             jbj                     gjh
+5out3
+h ui hikh  hi   hih     ih        ih             hy                     g                                  c
+5out4
+52 3 84  3   6     8        3             55
+6out0
+1
+0
+6out1
+1
+0
+1
+0
+6out2
+0
+6out3
+1
+0
+0
+0
+1
+1
+0
+1
+0
+0
+6out4
+1
+1
+1

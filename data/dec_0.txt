@@ -1,0 +1,161 @@
+  Question - 1:
+Surya wants to print string in a design. Write a code to print the given string in required pattern.
+
+Input format:
+First line: n, length of string
+Second line: string with n characters
+Output format:
+Required pattern
+
+Constrains:
+1 <= n <= 50
+Time: 1 sec
+
+  Input:
+  5
+  print
+
+  output:
+  p
+  p r
+  p r i
+  p r i n
+  p r i n t
+
+  Question - 2:
+You are provided an array of size A that contains N non-negative integers. Your task is to determine whether the number that is formed by selecting the last digit of all the N numbers is divisible by 10.
+
+Input format:
+First line: A single integer N denoting the size of array 
+Second line:  N space-separated integers.
+
+Output format:
+If the number is divisible by 10, then print YES. Otherwise, print NO.
+
+Constrains:
+1 <= N <= 10^5
+0 <= A[i] <= 10^5
+Time: 1 sec
+
+  Input:
+  5
+  85 96 34 23 92
+
+  Output:
+  NO
+
+Explanation:
+56432 obtained by taking last digits of all numbers in the array is not divisible by 10, so output is NO
+
+  Question - 3:
+Akram was developing chess game. While developing the chess game he wants to know the no of move his rook(elephant) can moves from the current position. Write a code to count the total no of moves rook can move.
+
+Input format:
+First line: integer N size of chess board(NxN)
+Second line: two space separated integers specifying the position
+
+Note :- A rook can Move only in forward, backward, right, left directions from its current Position.
+
+Output format:
+Number of moves
+
+Constrains:
+1 <= N <= 10^5
+Time: 1 sec
+
+  Input:
+  5
+  2 2
+
+  Output:
+  8
+
+  Question - 4:
+Akram and Surya are checking for anagram strings to complete their homework. Write a code to check weather two strings are anagrams are not. Two strings are said to be anagrams if the count of each character in the strings are equal.
+
+Input format:
+First line: n number of characters in each string.
+Second line: Two strings in new line.
+
+Output format:
+YES, if strings are anagrams else NO.
+
+Constrains:
+1 <= n <= 10^3
+Time: 1 sec
+
+  Input1:
+  4
+  race
+  care
+
+  output1:
+  YES
+
+  Input2:
+  5
+  hello
+  world
+
+  output2:
+  NO
+
+  Question - 5:
+Bhargav wants to manipulate a given String in such a way that, he will replace all occurrences of a character Ai in the string with N space, where N is the ith Fibonacci number.
+
+Input format:
+First line: string to be manipulate
+Second line: character to be replaced
+
+Output format:
+String
+
+Constrains:
+1 <= size of string <= 10^3
+Time: 1sec
+
+  Input0:
+  babbadab
+  a
+
+  output0:
+  bbb d b
+
+  Input1:
+  23563435637
+  3
+
+  Output1:
+  256 4 56  7
+
+Explanation:
+Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, and so on.
+2 + [0 space] + 56 + [1 space] + 4 + [1 space] + 56 + [2 space] + 7
+Here 3 is replaced with n no of space where n is ith Fibonacci number.
+
+  Question - 6:
+Harish wants to search for repeated strings in the given list of strings. Help to complete his work fast by writing a code. A string is said to be repeated, if it contains a sub-string which is multiplied to form given string.
+
+Input format:
+First line: n, number of strings
+Next n lines contain strings
+
+Output format:
+n lines 0 and 1, 0 if string is not repeating and 1 for repeating strings.
+
+Constrains:
+1 <= n <= 100
+Time: 1 sec
+
+  Input:
+  2
+  abbabbabb ababa
+
+  output:
+  1
+  0
+
+Explanation:
+In above test case
+First string "abbabbabb" is accepted, because it has a repeating substring "abb" and if we multiply this sub string for 3 times we get the original string.
+Second string "ababa" is not accepted, because it has no substring that forms the original string.

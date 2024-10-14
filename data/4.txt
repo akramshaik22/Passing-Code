@@ -1,0 +1,30 @@
+  Question - 4:
+Akram and Surya are checking for anagram strings to complete their homework. Write a code to check weather two strings are anagrams are not. Two strings are said to be anagrams if the count of each character in the strings are equal.
+
+Input format:
+First line: n number of characters in each string.
+Second line: Two strings in new line.
+
+Output format:
+YES, if strings are anagrams else NO.
+
+Constrains:
+1 <= n <= 10^3
+Time: 1 sec
+
+  Input1:
+  4
+  race
+  care
+
+  output1:
+  YES
+
+  Input2:
+  5
+  hello
+  world
+
+  output2:
+  NO
+

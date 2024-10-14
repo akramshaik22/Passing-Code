@@ -1,0 +1,25 @@
+  Question - 2:
+You are provided an array of size A that contains N non-negative integers. Your task is to determine whether the number that is formed by selecting the last digit of all the N numbers is divisible by 10.
+
+Input format:
+First line: A single integer N denoting the size of array 
+Second line:  N space-separated integers.
+
+Output format:
+If the number is divisible by 10, then print YES. Otherwise, print NO.
+
+Constrains:
+1 <= N <= 10^5
+0 <= A[i] <= 10^5
+Time: 1 sec
+
+  Input:
+  5
+  85 96 34 23 92
+
+  Output:
+  NO
+
+Explanation:
+56432 obtained by taking last digits of all numbers in the array is not divisible by 10, so output is NO
+

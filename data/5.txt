@@ -1,0 +1,33 @@
+  Question - 5:
+Bhargav wants to manipulate a given String in such a way that, he will replace all occurrences of a character Ai in the string with N space, where N is the ith Fibonacci number.
+
+Input format:
+First line: string to be manipulate
+Second line: character to be replaced
+
+Output format:
+String
+
+Constrains:
+1 <= size of string <= 10^3
+Time: 1sec
+
+  Input0:
+  babbadab
+  a
+
+  output0:
+  bbb d b
+
+  Input1:
+  23563435637
+  3
+
+  Output1:
+  256 4 56  7
+
+Explanation:
+Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, and so on.
+2 + [0 space] + 56 + [1 space] + 4 + [1 space] + 56 + [2 space] + 7
+Here 3 is replaced with n no of space where n is ith Fibonacci number.
+

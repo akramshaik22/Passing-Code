@@ -1,0 +1,15 @@
+1in0
+5
+print
+1in1
+50
+qwertyuiopasdfghjklzxcvbnqazwsxedcrfvtgbyhnujmikol
+1in2
+26
+abcdefghijklmnopqrstuvwxyz
+1in3
+10
+akram thop
+1in4
+15
+qwertyuiopzxcvb
